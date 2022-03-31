@@ -179,7 +179,7 @@ eng_button.addEventListener("click", function(){
         document.getElementById("top_left").textContent = "Begin";
         document.getElementById("top_right").textContent = "Finish";
         document.getElementById("bottom_left").textContent = "Take a break";
-        document.getElementById("bottom_right").textContent = "Bsck to work";
+        document.getElementById("bottom_right").textContent = "Back to work";
         document.getElementById("again").textContent = "Do it again";
         document.getElementById("table_top_left").textContent = "　　History";
         document.getElementById("table_top_right").textContent = "　　Time";
