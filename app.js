@@ -175,7 +175,7 @@ eng_button.addEventListener("click", function(){
     //ボタンを押す前のテキスト情報が"English"であれば、英語表記させる
     if (eng_button.textContent == "English"){
         eng_button.textContent ="日本語";
-        document.getElementById("top").textContent = "Be sure to push the ”Begin” botton before the work!";
+        document.getElementById("top").textContent = "Be sure to push the ”Begin” button before the work!";
         document.getElementById("top_left").textContent = "Begin";
         document.getElementById("top_right").textContent = "Finish";
         document.getElementById("bottom_left").textContent = "Take a break";
