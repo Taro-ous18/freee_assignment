@@ -1,5 +1,7 @@
 WEB:https://taro-ous18.github.io/freee_assignment/
 
+知識ゼロから1週間で制作しました。
+
 テーマ：グローバル化
 
 ターゲット：外国人従業員が在籍している企業
